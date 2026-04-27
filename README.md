@@ -1,6 +1,6 @@
 # Yoga Pose Classification
 
-A deep learning project for classifying yoga poses from images. This repository contains two complementary approaches to solve the same multi-class image classification problem: a **PyTorch transfer learning model** using GoogLeNet and a **TensorFlow/Keras custom CNN** with hyperparameter tuning and real-time webcam prediction capabilities.
+A deep learning project for classifying yoga poses from images. This repository contains two complementary approaches to solve the same multi-class image classification problem: a **PyTorch transfer learning model** using **GoogLeNet** and a **TensorFlow/Keras custom CNN** with hyperparameter tuning and real-time webcam prediction capabilities.
 
 ---
 
